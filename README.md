@@ -114,7 +114,13 @@ The project employs the following methodologies:
 
 ## Contribution Guidelines
 
-[![Pull Requests](https://img.shields.io/badge/Make%20a%20Pull%20Request-green)](https://github.com/virajbhutada/Music-Recommendation-System/pulls) [![Issues](https://img.shields.io/badge/Report%20an%20Issue-red)](https://github.com/virajbhutada/Music-Recommendation-System/issues) [![Discussions](https://img.shields.io/badge/Join%20the%20Discussion-blue)](https://github.com/virajbhutada/Music-Recommendation-System/discussions) [![Code Style](https://img.shields.io/badge/Check%20Code%20Style-orange)](https://github.com/virajbhutada/Music-Recommendation-System/blob/main/CODE_STYLE.md) [![Clone Repository](https://img.shields.io/badge/Clone%20Repository-gray)](https://github.com/virajbhutada/Music-Recommendation-System.git) [![Push Changes](https://img.shields.io/badge/Push%20Changes-blue)](https://github.com/virajbhutada/Music-Recommendation-System)
+[![Make a Pull Request](https://img.shields.io/badge/Make%20a%20Pull%20Request-2ea44f)](https://github.com/virajbhutada/Music-Recommendation-System/pulls)
+[![Report an Issue](https://img.shields.io/badge/Report%20an%20Issue-lavender)](https://github.com/virajbhutada/Music-Recommendation-System/issues)
+[![Join the Discussion](https://img.shields.io/badge/Join%20the%20Discussion-CD7F32)](https://github.com/virajbhutada/Music-Recommendation-System/discussions)
+[![Check Code Style](https://img.shields.io/badge/Check%20Code%20Style-brown)](https://github.com/virajbhutada/Music-Recommendation-System/blob/main/CODE_STYLE.md)
+[![Clone Repository](https://img.shields.io/badge/Clone%20Repository-6a737d)](https://github.com/virajbhutada/Music-Recommendation-System.git)
+[![Push Changes](https://img.shields.io/badge/Push%20Changes-0366d6)](https://github.com/virajbhutada/Music-Recommendation-System)
+
 
 - **Pull Requests**: We welcome pull requests. Please ensure your code follows the project’s coding standards. Before submitting, make sure your code is well-documented and tested.
 - **Issues**: If you find any issues or have suggestions, please create an issue on the GitHub repository. Clear and detailed issue reports help us improve the project efficiently.

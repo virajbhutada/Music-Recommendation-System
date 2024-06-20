@@ -148,6 +148,11 @@ Feel free to contribute, provide feedback, and make the most out of this system 
 
 ---
 
+## MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/virajbhutada/Music-Recommendation-System/blob/main/LICENSE) file for details.
+
+
 ### Connect With Me 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**

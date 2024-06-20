@@ -1,7 +1,7 @@
 
 ![Screenshot 2024-06-20 201356](https://github.com/virajbhutada/Music-Recommendation-System/assets/143819712/11b27a9b-e432-45f4-8f88-138ee17eae14)
 
-# Music Recommendation System for Meditation & Relaxation
+# Music Recommendation System
 
 
 - ## Table of Contents

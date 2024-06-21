@@ -82,8 +82,7 @@ The project employs the following methodologies:
 - **requirement.txt**: List of dependencies required for the project. Ensures that all necessary libraries and packages are installed.
 - **streamlitapp.py**: Script for running the Streamlit web application interface. Provides a web-based interface for users to interact with the system.
 - **data/**: Directory containing dataset files. Organized storage of all dataset files used in the project.
-- **report/**: Folder containing project reports and documentation. Maintains all relevant documentation and reports for the project.
-- **html/**: Directory containing HTML files with assets and artifacts. Stores all HTML files required for the web interface.
+- **report/**: Folder containing the HTML file required for the web interface, project reports and documentation. Maintains all relevant documentation and reports for the project.
 
 ---
 

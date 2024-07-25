@@ -3,7 +3,6 @@
 
 # Music Recommendation System
 
-
 - ## Table of Contents
   - [Problem Statement](#problem-statement)
   - [Overview](#overview)
